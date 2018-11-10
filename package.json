@@ -1,6 +1,6 @@
 {
   "name": "vue-randomcolor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tiny Vue.js wrapper for the randomcolor package",
   "main": "src/index.js",
   "scripts": {
