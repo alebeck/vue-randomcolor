@@ -1,7 +1,7 @@
 {
   "name": "vue-randomcolor",
   "version": "1.0.0",
-  "description": "Small Vue.js wrapper for the randomcolor package",
+  "description": "Tiny Vue.js wrapper for the randomcolor package",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,10 @@
     "randomcolor",
     "wrapper"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alebeck/vue-randomcolor.git"
+  },
   "author": "Alexander Becker",
   "license": "MIT",
   "devDependencies": {
