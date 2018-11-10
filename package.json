@@ -1,0 +1,24 @@
+{
+  "name": "vue-randomcolor",
+  "version": "1.0.0",
+  "description": "Small Vue.js wrapper for the randomcolor package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "randomcolor",
+    "wrapper"
+  ],
+  "author": "Alexander Becker",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/preset-env": "^7.1.5",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
