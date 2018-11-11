@@ -1,7 +1,7 @@
 {
   "name": "vue-randomcolor",
   "version": "1.0.2",
-  "description": "Tiny Vue.js wrapper for the randomcolor package",
+  "description": "Tiny wrapper for integrating randomcolor into Vue.js",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
