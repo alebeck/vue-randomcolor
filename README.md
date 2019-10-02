@@ -1,6 +1,6 @@
 # vue-randomcolor [![npm version](http://img.shields.io/npm/v/vue-randomcolor.svg)](https://npmjs.org/package/vue-randomcolor)
 
-Tiny wrapper for integrating [randomcolor](https://github.com/davidmerfield/randomColor) into Vue.js. Less than `1KB` minified.
+Tiny wrapper for integrating [randomcolor](https://github.com/davidmerfield/randomColor) into Vue.js. Less than `300 bytes` minified.
 
 ## Installation
 
